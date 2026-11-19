@@ -1,4 +1,4 @@
-# 1BITE - Food Management System
+P# 1BITE - Food Management System
 
 **1BITE** is a fully responsive web-based food management system designed to simplify online food ordering and management. It provides an intuitive user interface for customers to explore the menu, add items to the cart, view the total cost, and proceed to checkout with Stripe payment integration. On the administrative side, 1BITE allows administrators to manage the menu by adding, updating, and removing items, as well as tracking orders and updating order statuses efficiently.
 
@@ -107,4 +107,20 @@ Here is a walkthrough of the "1BITE" application with screenshots for key functi
 - **List Items**  
   ![Admin List Items](Project_screenshot/item-list.png)
 
+**Payment Integration**
 
+1BITE integrates Stripe to process online payments during checkout. Configure your Stripe secret key in the backend environment variables before testing payment functionality.
+
+**Future Improvements**
+
+1. Customer registration and login.
+2. Order history and tracking.
+3. Advanced product search and filtering.
+4. Food categories and product customization.
+5. Improved order analytics.
+6. Online deployment.
+
+
+**License**
+
+This project is available for educational and portfolio purposes. Add a formal open-source license if you intend to distribute it under specific reuse terms.
