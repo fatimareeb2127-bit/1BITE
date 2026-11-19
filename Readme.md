@@ -90,7 +90,7 @@ Here is a walkthrough of the "1BITE" application with screenshots for key functi
 
 #### User Interface
 - **Home Page**  
-  ![User Home Page](Project screenshot/home.png)
+  ![User Home Page](Project_screenshot/home.png)
 
 - **Menu**  
   ![Menu](Project_screenshot/menu.png)
