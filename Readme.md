@@ -90,27 +90,22 @@ Here is a walkthrough of the "1BITE" application with screenshots for key functi
 
 #### User Interface
 - **Home Page**  
-  ![User Home Page]
-  (Project_screenshot/home.png)
+  ![User Home Page](Project screenshot/home.png)
 
 - **Menu**  
-  ![Menu]
-  (Project_screenshot/menu.png)
+  ![Menu](Project_screenshot/menu.png)
 
 - **Cart View**  
-  ![Cart View]
-  (Project_screenshot/cart.png)
+  ![Cart View](Project_screenshot/cart.png)
 
 -
 
 #### Admin Interface
 - **Add Products**  
-  ![Admin Add Products]
-  (Project_screenshot/new-item.png)
+  ![Admin Add Products](Project_screenshot/new-item.png)
 
 - **List Items**  
-  ![Admin List Items]
-  (Project_screenshot/item-list.png)
+  ![Admin List Items](Project_screenshot/item-list.png)
 
 **Payment Integration**
 
