@@ -1,0 +1,22 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+.Navbar .logo{
+    width: max(17%, 80px );
+}
+
+.Navbar .admin-mark{
+    width: 40px;
+    height: 40px;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    background: #FF7B00;
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 20px;
+}

@@ -1,0 +1,2 @@
+.AppDownload { margin:120px 0 20px;padding:70px 24px;border:1px solid var(--line);border-radius:34px;text-align:center;font-size:clamp(28px,4vw,48px);font-weight:800;letter-spacing:-.05em;color:var(--text);background:linear-gradient(135deg,var(--surface),rgba(42,157,58,.08)) }
+.AppDownloadPlatforms { display:flex;justify-content:center;gap:12px;margin-top:30px }.AppDownloadPlatforms img{width:150px;max-width:40%;transition:.35s;cursor:pointer}.AppDownloadPlatforms img:hover{transform:translateY(-5px)}
